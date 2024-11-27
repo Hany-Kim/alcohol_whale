@@ -6,9 +6,9 @@
 | --- | --- | --- | --- | --- |
 | 안예림 | 팀장 | aspyo3@gmail.com | aspyo3@naver.com | 0746974 |
 | 김기태 | 팀원 | sxed1234@gmail.com | lop246@naver.com | 0747455 |
-|~~박명선~~ | ~~팀원~~| ~~audtjs12345@gmail.com~~ |~~zzz4774@naver.com~~ |~~0741819~~|
-| 박지은 | 팀원 | sorrypppp39@gmail.com | jjn1605@naver.com | 0747072 |
-| 이동준 | 팀원 | bomul0397@gmail.com | bomul1128@naver.com | 0748934 |
+|~~박명선~~|~~팀원~~|~~audtjs12345@gmail.com~~|~~zzz4774@naver.com~~ |~~0741819~~|
+|~~박지은~~|~~팀원~~|~~sorrypppp39@gmail.com~~|~~jjn1605@naver.com~~|~~0747072~~|
+|~~이동준~~|~~팀원~~|~~bomul0397@gmail.com~~|~~bomul1128@naver.com~~|~~0748934~~|
 | 김주한 | 팀원 | hanykim1210@gmail.com | sv03122@naver.com | 0742231 |
 
 ---
